@@ -1,0 +1,43 @@
+svg {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: visible;
+}
+
+g {
+  transform-origin: 50% 50%;
+  animation: rotate 10s linear infinite;
+}
+
+ellipse {
+  fill: none;
+  stroke: #61dafb;
+  stroke-width: 16px;
+  stroke-linecap: round;
+  stroke-dasharray: 212.3285, 30;
+  stroke-dashoffset: 727;
+  animation: animate 2s linear infinite;
+}
+
+circle {
+  fill: #61dafb;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes animate {
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
