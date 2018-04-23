@@ -1,4 +1,4 @@
 # react-logo-animated
 Animated SVG React.js logo
 
-[Demo](https://react-logo-animated.netlify.com/)
+Toggle fullscreen mode on click: [Demo](https://react-logo-animated.netlify.com/)
