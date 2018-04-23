@@ -25,7 +25,7 @@ ellipse {
   stroke-width: 16px;
   stroke-linecap: round;
   stroke-dasharray: 212.3285, 30;
-  stroke-dashoffset: 726.9855;
+  stroke-dashoffset: 721;
   animation: animate 2s linear infinite;
 }
 
