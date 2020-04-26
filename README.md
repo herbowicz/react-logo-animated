@@ -1,6 +1,6 @@
 # react-logo-animated
 
-## Description
+## About
 
 Animated SVG React.js logo
 
