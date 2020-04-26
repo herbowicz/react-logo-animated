@@ -1,4 +1,6 @@
-# react-logo-animated
+# React Logo Animated
+
+react-logo-animated
 
 ## About
 
